@@ -1,0 +1,125 @@
+{
+  "personalInfo":
+  {
+    "name": "",
+    "phoneNumber": "",
+    "gitHub":"",
+    "email": "",
+    "dob": "",
+    "Address":
+    {
+      "city": "",
+      "state": "",
+      "pinCode": "",
+      "country": ""
+    }
+  },
+  "education":
+  {
+    "Secondary":
+    {
+      "institution":
+      {
+        "name": "",
+        "address": ""
+      },
+      "board": "",
+      "marks": "",
+      "duration":"",
+      "start":"",
+      "end":""
+    },
+    "PU":
+    {
+      "institution":
+      {
+        "name": "",
+        "address": ""
+      },
+      "board": "",
+      "marks": "",
+      "duration":"",
+      "start":"",
+      "end":""
+    },
+    "UG":
+    {
+      "institution":
+      {
+        "name": "",
+        "address": ""
+      },
+      "board": "",
+      "marks": "",
+      "duration":"",
+      "start":"",
+      "end":""
+    },
+    "PG":
+    {
+      "institution":
+      {
+        "name": "",
+        "address": ""
+      },
+      "board": "",
+      "marks": "",
+      "duration":"",
+      "start":"",
+      "end":""
+    }
+  },
+  "projects":
+  [
+    {
+      "name": "",
+      "description": "",
+      "technologies":
+      [
+        "",
+        "",
+        ""
+      ],
+      "link": ""
+    }
+  ],
+  "certifications":
+  [
+    {
+      "name":"",
+      "verificationLink":""
+    }
+  ],
+  "experience":
+  [
+    {
+      "company":"",
+      "role":"",
+      "project":
+      {
+        "name": "",
+        "description": "",
+        "technologies":
+        [
+          "",
+          "",
+          ""
+        ],
+        "link": ""
+      },
+      "duration":"",
+      "start":"",
+      "end":""
+    }
+  ],
+  "codingPlatformLinks":
+  {
+    "leetCode":"",
+    "hackerRank":"",
+    "hackerEarth":"",
+    "codeChef":"",
+    "codeForces":"",
+    "gfg":""
+  },
+  "skills":["","",""]
+}
